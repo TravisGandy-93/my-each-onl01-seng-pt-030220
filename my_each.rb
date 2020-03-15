@@ -1,8 +1,8 @@
-collection = [1, 2, 3, 4]
+collection = []
 
 def my_each(collection)
-  i = 0 
-  while collection.size < 10
+  
+  while  
   yield collection[i]
   i = i + 1
   end
