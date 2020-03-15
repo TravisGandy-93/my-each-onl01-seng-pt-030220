@@ -8,5 +8,5 @@ def my_each(collection)
   end
 end
 
-my_each() do |n|
+my_each(collection) do |n|
 end
