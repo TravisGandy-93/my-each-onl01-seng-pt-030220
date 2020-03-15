@@ -9,8 +9,4 @@ def my_each(collection)
   collection
 end
 
-my_each(collection) do |n|
-  if n != 0
-    "#{n}"
-  end
 end
