@@ -2,7 +2,7 @@ collection = []
 
 def my_each(collection)
   
-  while  
+  while collection 
   yield collection[i]
   i = i + 1
   end
