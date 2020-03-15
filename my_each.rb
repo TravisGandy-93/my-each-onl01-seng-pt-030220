@@ -9,5 +9,6 @@ def my_each(collection)
 end
 
 my_each(collection) do |n|
-  n.to_a
+  if n != 0
+    "#{n}"
 end
