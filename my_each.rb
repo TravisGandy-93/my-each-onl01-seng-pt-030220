@@ -8,7 +8,7 @@ def my_each(collection)
   end
   collection
 else 
-  
+  "Not Happening"
 end
 
 end
